@@ -102,7 +102,7 @@ class Projects extends Component {
                         </CardText>
                         
                         <CardActions className= "projects-button-text">
-                            <Button rel= "noopener noreferrer" target="_blank" href="https://bitbucket.org/FaultyCarry/emr-on-blockchain/" colored > Github </Button>
+                            <Button rel= "noopener noreferrer" target="_blank" href="https://bitbucket.org/FaultyCarry/emr-on-blockchain/" colored > bit bucket </Button>
                         </CardActions>
                         
                         <CardMenu style={{color: '#fff'}} >
